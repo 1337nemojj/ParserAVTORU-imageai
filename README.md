@@ -1,0 +1,2 @@
+# ParserAVTORU-imageai
+Test project
